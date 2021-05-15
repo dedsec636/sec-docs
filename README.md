@@ -64,6 +64,25 @@ Brief Description
 
 ## Contributors
 
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 225.0; height: 225.0">
+        <a href=https://github.com/SaurusXI>
+            <img src=https://avatars.githubusercontent.com/u/39787073?v=4 width="150;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Shantanu Verma/>
+            <br />
+            <sub style="font-size:16px"><b>Shantanu Verma</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 225.0; height: 225.0">
+        <a href=https://github.com/VisheshBansal>
+            <img src=https://avatars.githubusercontent.com/u/22132836?v=4 width="150;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vishesh Bansal/>
+            <br />
+            <sub style="font-size:16px"><b>Vishesh Bansal</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
 
 
 <p align="center">
