@@ -2,8 +2,8 @@
 <a href="https://dscvit.com">
 	<img src="https://user-images.githubusercontent.com/30529572/92081025-fabe6f00-edb1-11ea-9169-4a8a61a5dd45.png" alt="DSC VIT"/>
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > <h4>
+	<h2 align="center"> CTF Writeups </h2>
+	<h4 align="center"> Repository for CTF Writeups, Resources and Tools <h4>
 </p>
 
 ---
@@ -14,53 +14,57 @@
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 
-## Features
-- [ ]  < feature >
-- [ ]  < feature >
-- [ ]  < feature >
-- [ ]  < feature >
+<br />
 
-<br>
+## Format
 
-## Dependencies
- - < dependency >
- - < dependency >
+### Directory Structure
 
-
-## Running
-
-
-< directions to install > 
-```bash
-< insert code >
 ```
+- CTF Name
+  - README.md
+  - Category
+    - Challenge Name
+     	- static (for images, audio and video files used in README.md)
+     	- assets (binaries, other source files, etc)
+     	- README.md (Solution)
+```
+<br />
 
-< directions to execute >
+### Challenge Solution
 
-```bash
-< insert code >
+```
+# Challenge Name
+
+Author: [author](https://github.com/author)
+
+Brief Description
+
+- Problem Statement and description of the challenge.
+
+## Requirements
+
+- Topics for which prior knowledge may be required.
+- List of requirements and exploitation tools.
+
+## Source
+
+- Links to source code and other files (if applicable).
+
+## Exploitation
+
+- Links to websites and documents for reference (if applicable).
+- Detailed Exploit with images (if any).
+
+
+## Flag 
+
+```INSERT FLAG HERE```
 ```
 
 ## Contributors
 
-<table>
-	<tr align="center">
-		<td>
-		John Doe
-		<p align="center">
-			<img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
-		</p>
-			<p align="center">
-				<a href = "https://github.com/person1">
-					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
-				</a>
-				<a href = "https://www.linkedin.com/in/person1">
-					<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
-				</a>
-			</p>
-		</td>
-	</tr>
-</table>
+
 
 <p align="center">
 	Made with ❤ by <a href="https://dscvit.com">DSC VIT</a>
