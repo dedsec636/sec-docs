@@ -3,7 +3,7 @@
 Author: [Rakhul KS](https://github.com/dedsec636)
 
 Brief Description
-![challenge picture](/static/challenge.png)
+![challenge picture](/forensics/Operation%20Orchid/static/challenge.png)
 
 ## Requirements
 
@@ -11,24 +11,24 @@ Brief Description
 
 ## Source
 
-- [disk img](/assets/disk.flag.img.gz)
+- [disk img](/forensics/Operation%20Orchid/assets/disk.flag.img.gz)
 
 ## Exploitation
 
  Analyzing the disk file in autopsy
  doing flag.txt file search in mount /3/ results in 
 
-![autopsy search](static/autopsysearch.png)
+![autopsy search](/forensics/Operation%20Orchid/static/autopsysearch.png)
 
 The flag.txt.enc results in salted hash 
 
 going to the directory where the file is located leads to 
 
-![directory search](static/openssl.png)
+![directory search](/forensics/Operation%20Orchid/static/openssl.png)
 the .ash_history file contains the openssl password for aes256
 
 Thus decrypting using the openssl password leads to the flag 
-![decrypt](static/decrypt.png)
+![decrypt](/forensics/Operation%20Orchid/static/decrypt.png)
 
 ## Flag
 

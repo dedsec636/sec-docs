@@ -3,7 +3,7 @@
 Author: [Rakhul KS](https://github.com/dedsec636)
 
 Brief Description
-![challenge picture](/static/challenge.png)
+![challenge picture](/forensics/packets%20primer/static/challenge.png)
 
 ## Requirements
 
@@ -12,14 +12,14 @@ Brief Description
 
 ## Source
 
-- [pcap file](/assets/network-dump.flag.pcap)
+- [pcap file](/forensics/packets%20primer/assets/network-dump.flag.pcap)
 
 ## Exploitation
 
  Analyzing the pcap file and following the first tcp stream results in the flag 
 
  (Also strings on the pcap file works)
- ![wireshark picture](/static/wireshark.png)
+ ![wireshark picture](/forensics/packets%20primer/static/wireshark.png)
 
 Removing the spaces from the text results in the flag
 

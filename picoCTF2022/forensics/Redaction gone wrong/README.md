@@ -3,7 +3,7 @@
 Author: [Rakhul KS](https://github.com/dedsec636)
 
 Brief Description
-![challenge picture](/static/challenge.png)
+![challenge picture](/forensics/Redaction%20gone%20wrong/static/challenge.png)
 
 ## Requirements
 
@@ -11,7 +11,7 @@ Brief Description
 
 ## Source
 
-- [pdf file](/assets/Financial_Report_for_ABC_Labs.pdf)
+- [pdf file](/forensics/Redaction%20gone%20wrong/assets/Financial_Report_for_ABC_Labs.pdf)
 
 ## Exploitation
 

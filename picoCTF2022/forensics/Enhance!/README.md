@@ -3,7 +3,7 @@
 Author: [Rakhul KS](https://github.com/dedsec636)
 
 Brief Description
-![challenge picture](/static/challenge.png)
+![challenge picture](/forensics/enhance/static/challenge.png/)
 
 ## Requirements
 
@@ -11,14 +11,14 @@ Brief Description
 
 ## Source
 
-- [svg file](/assets/drawing.flag.svg)
+- [svg file](/forensics/enhance/assets/drawing.flag.svg)
 
 ## Exploitation
 
  Analyzing the svg file with inspector in the browser,
  we find quite a lot of text in the end
- ![svg picture](/static/svg.png)
-the flag is hidden in the text 
+ ![svg picture](/forensics/enhance/static/svg.png)
+the flag is hidden in the text
 
 
 ## Flag

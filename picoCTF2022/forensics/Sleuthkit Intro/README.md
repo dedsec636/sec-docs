@@ -2,7 +2,7 @@
 Author: [Rakhul KS](https://github.com/dedsec636)
 
 Brief Description
-![challenge picture](/static/challenge.png)
+![challenge picture](/forensics/sluthkitintro/static/challenge.png)
 
 ## Requirements
 
@@ -10,16 +10,16 @@ Brief Description
 
 ## Source
 
-- [disk img file](/assets/disk.img)
+- [disk img file](/forensics/sluthkitintro/assets/disk.img)
 
 ## Exploitation
 
 The description of the challenge asks us to mount the disk image and use mmls to find the size of linux partition and use that on the remote checker to get the flag so following the same
-![mmls picture](/static/mmls.png)
+![mmls picture](/forensics/sluthkitintro/static/mmls.png)
 
 Now using the remote checker service to find the flag 
 
-![remote checker picture](/static/remotechecker.png)
+![remote checker picture](/forensics/sluthkitintro/static/remotechecker.png)
 
 
 

@@ -3,7 +3,7 @@
 Author: [Rakhul KS](https://github.com/dedsec636)
 
 Brief Description
-![challenge picture](/static/challenge.png)
+![challenge picture](/forensics/Lookey%20here/static/challenge.png)
 
 ## Requirements
 
@@ -11,13 +11,13 @@ Brief Description
 
 ## Source
 
-- [txt file](/assets/anthem.flag.txt)
+- [txt file](/forensics/Lookey%20here/assets/anthem.flag.txt)
 
 ## Exploitation
 
 The challenge tag mentions grep 
 Thus with the usage of grep with command results in the flag
-![grep picture](/static/grep.png)
+![grep picture](/forensics/Lookey%20here/static/grep.png)
 
 
 ## Flag
